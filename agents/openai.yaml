@@ -1,0 +1,7 @@
+interface:
+  display_name: "微信公众号文章提取"
+  short_description: "提取微信公众号文章正文，并按需求总结、整理或分析"
+  default_prompt: "Use $wechat-article-extractor to extract this WeChat article and summarize its key points."
+
+policy:
+  allow_implicit_invocation: true
